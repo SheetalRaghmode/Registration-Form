@@ -1,0 +1,50 @@
+body{
+    background: url(1.jpg);
+    color: azure;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: white;
+    margin-top: 10px;
+    font-size: 38px;
+}
+
+.col-md-5{
+    margin-top: 40px;
+    box-shadow: -1px 1px 60px 10px black;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.label{
+    font-weight: normal;
+    margin-top: 15px;
+    color: white;
+    font-size: 19px;
+}
+
+.form-control{
+    background: transparent;
+    border-radius: 0px;
+    border: 0;
+    border-bottom: 1px solid white;
+    font-size: 18px;
+    margin-top: 15px;
+    height: 40px;
+    color: white;
+}
+
+button{
+    font-size: 18px;
+    margin-top: 20px;
+    border-radius: 50px;
+    padding: 5px;
+    width: 100px;
+}
+
+#regForm{
+    padding: 10px;
+}
